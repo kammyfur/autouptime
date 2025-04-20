@@ -1,0 +1,14 @@
+{
+  "name": "auto-uptime",
+  "version": "1.0.1",
+  "description": "Automatically fetch uptime from websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Minteck Projects Ltd.",
+  "license": "Proprietary",
+  "dependencies": {
+    "jsftp": "^2.1.3"
+  }
+}
